@@ -31,17 +31,6 @@
 </picture>
 </p>
 
-[![PayPal][badge_paypal]][paypal_link]
-[![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
-[![Website][badge_website]][website_link]
-
-[badge_paypal]: https://img.shields.io/badge/PayPal-Donate-blue
-[paypal_link]: https://www.paypal.com/paypalme/NachmanLibermensh
-[badge_buymeacoffee]: ./buymeacoffee.svg
-[buymeacoffee_link]: https://www.buymeacoffee.com/NachmanLibermensh
-[badge_website]: https://img.shields.io/static/v1?label=%F0%9F%8C%90&message=nachmanlibermensh.xyz&color=green&style=flat
-[website_link]: https://nachmanlibermensh.xyz
-
 <!-- ------- -->
 
 <!--
