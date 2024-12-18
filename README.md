@@ -17,13 +17,13 @@
 <br>
 <br>
 <h2> GitHub Stats </h2>
-
+<!--
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=dark">
   <img alt="Nachman-Libermensh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=default">
 </picture>
-</p>
+</p>-->
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermensh&layout=compact&theme=dark">
