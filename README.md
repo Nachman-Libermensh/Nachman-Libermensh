@@ -1,16 +1,18 @@
 <h2> Skills </h2>
+<img width="22px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img width="22px" title="Tailwind" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
 <img width="22px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
 <img width="22px" title="Typescript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
 <img width="22px" title="React" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-<img width="22px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-<img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
 <img width="22px" title="NextJS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
 <img width="22px" title="Next-auth" align="left" src="https://camo.githubusercontent.com/f4758620c60f931a2b9bfe132176a2e6dee2cbbb80c713639d4a969ab6100b8e/68747470733a2f2f70726576696577732e6a756d7073686172652e636f6d2f7468756d622f38313562633031623739366464366631373333633935376335616631393439333334623665626631613431636237383263383138663362633833383430343965323531646361366532336330633437373638636137393739366539393036376132343934633961336461393961353036326534353030343134306264363334613037363935343432643631633366663961323139656531323435613230656533">
-<img width="22px" title="Tailwind" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
+
 
 <img width="22px" title="Nodejs" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
 <img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+<img width="22px" title="Mongoose" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongoose.svg">
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
 <img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
 
