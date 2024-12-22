@@ -39,7 +39,7 @@ I am a software developer with a passion for learning and creating new things. M
 
 <br clear="left"/>
 
-## GitHub Stats
+## GitHub Stats in public repositories
 <!--
 <p>
 <picture>
