@@ -7,7 +7,7 @@ I am a software developer with a passion for learning and creating new things. M
 
 ## Technical Skills
 
-<img width="100%" height="20px" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+
 
 ### Programming Languages
 <img width="22px" title="Java" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
@@ -64,6 +64,8 @@ I am a software developer with a passion for learning and creating new things. M
 - **Project B**: A brief description of the project and what it does.
 - **Project C**: A brief description of the project and what it does.
 -->
+
+<img width="100%" height="20px" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
 
 ## Contact
 
