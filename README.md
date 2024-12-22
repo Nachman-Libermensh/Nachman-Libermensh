@@ -60,6 +60,8 @@ I am a software developer with a passion for learning and creating new things. M
 - **Project B**: A brief description of the project and what it does.
 - **Project C**: A brief description of the project and what it does.
 -->
+
 ## Contact
+
 - 📫 Reach me at: [bn8475266@gmail.com](mailto:nachman@example.com)
 - 🔗 Social Media: [LinkedIn](https://www.linkedin.com)
