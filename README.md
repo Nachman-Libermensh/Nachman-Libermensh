@@ -36,19 +36,19 @@
   <img alt="Nachman-Libermנesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermנesh&show_icons=true&theme=default">
 </picture>
 </p>
-<!-- דרכי התקשרות --><!-- 
+
 <!-- <p> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermנesh&layout=compact&theme=dark">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermנesh&layout=compact&theme=default">
 </picture>
 </p>-->
-
+<!--
 ## פרויקטים עיקריים
-- **פרויקט א**: תיאור קצר של הפרויקט ומה הוא עושה.
+- **פרויקט א**: מערכת 
 - **פרויקט ב**: תיאור קצר של הפרויקט ומה הוא עושה.
 - **פרויקט ג**: תיאור קצר של הפרויקט ומה הוא עושה.
-
+-->
 ## קשר
 - 📫 ניתן להגיע אלי במייל: [nachman@example.com](mailto:nachman@example.com)
 - 🔗 רשתות חברתיות: [LinkedIn](https://www.linkedin.com), [Twitter](https://twitter.com)
