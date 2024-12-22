@@ -22,6 +22,7 @@ I am a software developer with a passion for learning and creating new things. M
 <img width="22px" title="Next.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
 <img width="22px" title="Node.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
+<img width="22px" title="tanstack-table" align="left" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png">
 <br clear="left"/>
 
 ### Databases
