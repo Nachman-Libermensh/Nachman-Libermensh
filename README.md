@@ -1,54 +1,55 @@
-# שלום, אני נחמן ליברמנש 👋
+# Hello, I'm Nachman Libermensh 👋
 
-## הקדמה
-אני מפתח תוכנה עם תשוקה ללמידה ויצירת דברים חדשים. רוב המאגרים שלי הם פרטיים, אך אני מחפש תמיד לשפר את היכולות שלי ולתרום לקהילה, עם חתירה מתמדת לכיוון הטוב - בטוחה ההגעה למטרה ביום מן הימים.
-אשמח לעבוד איתך על משהו...😉
+## Introduction
+I am a software developer with a passion for learning and creating new things. Most of my repositories are private, but I am always looking to improve my skills and contribute to the community. I would love to collaborate with you on something...😉
 
-## כישורים טכנולוגיים
-### שפות תכנות
-<img width="22px" title="Java" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-<img width="22px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-<img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-<img width="22px" title="JavaScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-<img width="22px" title="TypeScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
+## Technical Skills
 
-### פריימוורקים וספריות
-<img width="22px" title="React" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-<img width="22px" title="Next.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
-<img width="22px" title="Node.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-<img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
+### Programming Languages
+<img width="22px" title="Java" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> Java
+<img width="22px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> HTML
+<img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> CSS
+<img width="22px" title="JavaScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> JavaScript
+<img width="22px" title="TypeScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"> TypeScript
+<img width="22px" title="Python" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> Python
 
-### מסדי נתונים
-<img width="22px" title="MySQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-<img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-<img width="22px" title="Mongoose" align="left" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png">
+### Frameworks and Libraries
+<img width="22px" title="React" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> React
+<img width="22px" title="Next.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg"> Next.js
+<img width="22px" title="Node.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"> Node.js
+<img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg"> Express.js
 
-### כלים
-<img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-<img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+### Databases
+<img width="22px" title="MySQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> MySQL
+<img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"> MongoDB
+<img width="22px" title="Mongoose" align="left" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"> Mongoose
+
+### Tools
+<img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> Git
+<img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> GitHub
 
 <br clear="left"/>
 
-## סטטיסטיקות GitHub
+## GitHub Stats
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=dark">
-  <img alt="Nachman-Libermנesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermנesh&show_icons=true&theme=default">
+  <img alt="Nachman-Libermensh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=default">
 </picture>
 </p>
 
-<!-- <p> 
+<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermנesh&layout=compact&theme=dark">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermנesh&layout=compact&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermensh&layout=compact&theme=dark">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermensh&layout=compact&theme=default">
 </picture>
-</p>-->
-<!--
-## פרויקטים עיקריים
-- **פרויקט א**: מערכת 
-- **פרויקט ב**: תיאור קצר של הפרויקט ומה הוא עושה.
-- **פרויקט ג**: תיאור קצר של הפרויקט ומה הוא עושה.
--->
-## קשר
-- 📫 ניתן להגיע אלי במייל: [nachman@example.com](mailto:nachman@example.com)
-- 🔗 רשתות חברתיות: [LinkedIn](https://www.linkedin.com), [Twitter](https://twitter.com)
+</p>
+
+## Major Projects
+- **Project A**: A brief description of the project and what it does.
+- **Project B**: A brief description of the project and what it does.
+- **Project C**: A brief description of the project and what it does.
+
+## Contact
+- 📫 Reach me at: [nachman@example.com](mailto:nachman@example.com)
+- 🔗 Social Media: [LinkedIn](https://www.linkedin.com), [Twitter](https://twitter.com)
