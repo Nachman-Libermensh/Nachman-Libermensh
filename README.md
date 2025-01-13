@@ -29,6 +29,7 @@ I am a software developer with a passion for learning and creating new things. M
 <img width="22px" title="tanstack-table" align="left" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png">
 <img width="22px" title="React Router" align="left" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg">
 <img width="22px" title="OpenAI API" align="left" src="https://www.svgrepo.com/show/306500/openai.svg">
+<img width="22px" title="next-auth" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/next-auth.png">
 <br clear="left"/>
 
 ### Databases
