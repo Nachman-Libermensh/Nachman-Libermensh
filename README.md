@@ -69,6 +69,29 @@ I am a software developer with a passion for learning and creating new things. M
 - **Project C**: A brief description of the project and what it does.
 -->
 
+
+<div align="center">
+    <svg width="300" height="300" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="18" cy="18" r="15.9155" fill="#f3f3f3"></circle>
+        <path d="M18 2.0845
+            a 15.9155 15.9155 0 0 1 0 31.831
+            a 15.9155 15.9155 0 0 1 0 -31.831"
+            fill="none" stroke="#f1e05a" stroke-width="3.2"
+            stroke-dasharray="42.07, 57.93"></path>
+        <path d="M18 2.0845
+            a 15.9155 15.9155 0 0 1 0 31.831
+            a 15.9155 15.9155 0 0 1 0 -31.831"
+            fill="none" stroke="#563d7c" stroke-width="3.2"
+            stroke-dasharray="39.56, 60.44" stroke-dashoffset="42.07"></path>
+        <path d="M18 2.0845
+            a 15.9155 15.9155 0 0 1 0 31.831
+            a 15.9155 15.9155 0 0 1 0 -31.831"
+            fill="none" stroke="#e34c26" stroke-width="3.2"
+            stroke-dasharray="18.36, 81.64" stroke-dashoffset="81.63"></path>
+        <text x="18" y="20.35" text-anchor="middle" fill="#000" font-size="2">שxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>
+</div>
+
+
 <img width="100%" height="20px" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
 
 ## Contact
