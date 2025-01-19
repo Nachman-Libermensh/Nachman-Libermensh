@@ -54,7 +54,7 @@ I am a software developer with a passion for learning and creating new things. M
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=dark">
-  <img alt="Nachman-Libermensh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nachman-Libermensh&show_icons=true&theme=default">
 </picture>
 </p>
 -->
