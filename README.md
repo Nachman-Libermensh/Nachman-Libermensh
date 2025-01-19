@@ -60,8 +60,8 @@ I am a software developer with a passion for learning and creating new things. M
 -->
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermensh&layout=compact&theme=dark">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachman-Libermensh&layout=compact&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <img alt="Top Languages" src="">
 </picture>
 </p>
 <!--
