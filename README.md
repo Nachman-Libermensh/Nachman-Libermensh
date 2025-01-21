@@ -10,42 +10,42 @@ I am a software developer with a passion for learning and creating new things. M
 
 
 ### Programming Languages
-<img width="22px" title="Java" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-<img width="22px" title="Python" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+<img width="22px" title="Java" align="left" src="/public/java.svg">
+<img width="22px" title="Python" align="left" src="/public/python.svg">
 <img width="22px" title="C" align="left" src="/public/c.svg">
-<img width="22px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-<img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-<img width="22px" title="JavaScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-<img width="22px" title="TypeScript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
+<img width="22px" title="HTML" align="left" src="/public/css.svg">
+<img width="22px" title="CSS" align="left" src="/public/css.svg">
+<img width="22px" title="JavaScript" align="left" src="/public/javascript.svg">
+<img width="22px" title="TypeScript" align="left" src="/public/typescript.svg">
 
 <br clear="left"/>
 
 ### Frameworks and Libraries
 
-<img width="22px" title="React" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-<img width="22px" title="Next.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
-<img width="22px" title="Node.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-<img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
-<img width="22px" title="tanstack-table" align="left" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png">
+<img width="22px" title="React" align="left" src="/public/reactjs.svg">
+<img width="22px" title="Next.js" align="left" src="/public/nextjs.svg">
+<img width="22px" title="Node.js" align="left" src="/public/nodejs.svg">
+<img width="22px" title="Express.js" align="left" src="/public/express.svg">
+<img width="22px" title="tanstack-table" align="left" src="/public/logo-color-100w-br5_Ikqp.png">
 <img width="22px" title="React Router" align="left" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg">
-<img width="22px" title="OpenAI API" align="left" src="https://www.svgrepo.com/show/306500/openai.svg">
-<img width="22px" title="next-auth" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/next-auth.png">
-<img width="22px" title="shadcn-ui" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/shadcn-ui-logo.svg">
+<img width="22px" title="OpenAI API" align="left" src="/public/openai.svg">
+<img width="22px" title="next-auth" align="left" src="/public/next-auth.png">
+<img width="22px" title="shadcn-ui" align="left" src="/public/shadcn-ui-logo.svg">
 
 <br clear="left"/>
 
 ### Databases
 
-<img width="22px" title="MySQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-<img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-<img width="22px" title="Mongoose" align="left" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png">
+<img width="22px" title="MySQL" align="left" src="/public/mysql.svg">
+<img width="22px" title="MongoDB" align="left" src="/public/mongodb.svg">
+<img width="22px" title="Mongoose" align="left" src="/public/mongoose.png">
 
 <br clear="left"/>
 
 ### Tools
 
-<img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-<img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+<img width="22px" title="Git" align="left" src="/public/git.svg">
+<img width="22px" title="GitHub" align="left" src="/public/github.svg">
 
 <br clear="left"/>
 
