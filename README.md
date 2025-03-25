@@ -18,60 +18,47 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Core Languages</b></summary>
-<p align="center" style="display: flex; gap: 10px;">
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/typescript.svg" alt="TypeScript"/><br>TypeScript</kbd>HTML | CSS |
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/javascript.svg" alt="JavaScript"/><br>JavaScript</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/java.svg" alt="Java"/><br>Java</kbd>com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/typescript.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/javascript.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/java.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/python.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/c.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/html.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/css.svg"/> |
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/python.svg" alt="Python"/><br>Python</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/c.svg" alt="C"/><br>C</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/html.svg" alt="HTML"/><br>HTML</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/css.svg" alt="CSS"/><br>CSS</kbd>
-</p>><b>Frontend Excellence</b></summary>
-</details>-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
 
-<details open>/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/reactjs.svg" width="50" alt="React"/>
-<summary><b>Frontend Excellence</b></summary>strong>React</strong></p>
-<p align="center">
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/reactjs.svg" alt="React"/><br>React</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nextjs.svg" alt="Next.js"/><br>Next.js</kbd>idth: 120px;">
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/shadcn-ui-logo.svg" alt="Shadcn/UI"/><br>Shadcn/UI</kbd> src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nextjs.svg" width="50" alt="Next.js"/>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/i18n.png" alt="i18n"/><br>i18n</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/tanstack-table.png" alt="TanStack Table"/><br>TanStack Table</kbd>
-  <kbd><img width="60" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" alt="React Router"/><br>React Router</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/openAi.svg" alt="OpenAI API"/><br>OpenAI API</kbd>lign="center" style="min-width: 120px;">
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/next-auth.png" alt="NextAuth.js"/><br>NextAuth.js</kbd>nsh/Nachman-Libermensh/blob/main/public/shadcn-ui-logo.svg" width="50" alt="shadcn/ui"/>
-  <kbd><img width="60" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind"/><br>Tailwind</kbd>
-  <kbd><img width="60" src="https://zod.dev/logo.svg" alt="Zod"/><br>Zod</kbd>all>
-  <kbd><img width="60" src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query"/><br>React Query</kbd>
-  <kbd><img width="60" src="https://react-hook-form.com/images/logo/react-hook-form-logo.svg" alt="React Hook Form"/><br>React Hook Form</kbd>
-</p>/>
-</details>>
-ll>Internationalization</small>
-<details open>v>
-<summary><b>Backend & Infrastructure</b></summary>gn="center" style="min-width: 120px;">
-<p align="center">    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/tanstack-table.png" width="50" alt="TanStack Table"/>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg" alt="Node.js"/><br>Node.js</kbd>>TanStack Table</strong></p>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/express.svg" alt="Express.js"/><br>Express.js</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nestjs.svg" alt="NestJS"/><br>NestJS</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongoose.png" alt="Mongoose"/><br>Mongoose</kbd>
-  <kbd><img width="60" src="https://axios-http.com/assets/logo.svg" alt="Axios"/><br>Axios</kbd>"React Router"/>
-  <kbd><img width="60" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel"/><br>Vercel</kbd>ng></p>
-</p>
+|                                                    TypeScript                                                    |                                                    JavaScript                                                    |                                                    Java                                                    |                                                    Python                                                    |                                                    C                                                    |                                                    HTML                                                    |                                                    CSS                                                    |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/typescript.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/javascript.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/java.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/python.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/c.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/html.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/css.svg"/> |
+
 </details>
 
-<details open>"/>
-<summary><b>Database Expertise</b></summary>/p>
-<p align="center">
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongodb.svg" alt="MongoDB"/><br>MongoDB</kbd>
-  <kbd><img width="60" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mysql.svg" alt="MySQL"/><br>MySQL</kbd>
-</p>
-</details>p>
+<details open>
+<summary><b>Frontend Excellence</b></summary>
+
+|                                                     React                                                     |                                                   Next.js                                                    |                                                      Shadcn/UI                                                       |                                                         Tailwind                                                         |                                             React Query                                              |                       Zod                        |                                     React Hook Form                                      |
+| :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/reactjs.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nextjs.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/shadcn-ui-logo.svg"/> | <img width="50" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"/> | <img width="50" src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg"/> | <img width="50" src="https://zod.dev/logo.svg"/> | <img width="50" src="https://react-hook-form.com/images/logo/react-hook-form-logo.svg"/> |
+
+|                                                    i18n                                                    |                                                    TanStack Table                                                    |                                                      React Router                                                      |                                                  OpenAI API                                                  |                                                   NextAuth.js                                                   |
+| :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/i18n.png"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/tanstack-table.png"/> | <img width="50" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/openAi.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/next-auth.png"/> |
+
+</details>
+
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+
+|                                                   Node.js                                                    |                                                  Express.js                                                   |                                                    NestJS                                                    |                                                    Mongoose                                                    |                             Axios                              |                                                 Vercel                                                  |
+| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/express.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nestjs.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongoose.png"/> | <img width="50" src="https://axios-http.com/assets/logo.svg"/> | <img width="50" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png"/> |
+
+</details>
+
+<details open>
+<summary><b>Database Expertise</b></summary>
+
+|                                                    MongoDB                                                    |                                                    MySQL                                                    |
+| :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongodb.svg"/> | <img width="50" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mysql.svg"/> |
+
+</details>
 
 ---
 
-### 🏆 Professional Highlights" alt="Tailwind CSS"/>
-
-ong></p>
+### 🏆 Professional Highlights
 
 - **Architecture Design**: Experienced in designing scalable microservices architectures
 - **Full-Stack Development**: End-to-end application development with modern tech stacks
@@ -88,19 +75,17 @@ ong></p>
 
 ---
 
-> </p>
-
 ### 📫 Professional Network
 
 <div align="center">
   <a href="mailto:bn8475266@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20for%20Collaboration-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com">><b>Backend & Infrastructure</b></summary>
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</div>-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg" width="50" alt="Node.js"/>
+</div>
 
-<div align="center">ll>Runtime Environment</small>
+<div align="center">
   <img width="100%" height="20px" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
 </div>
