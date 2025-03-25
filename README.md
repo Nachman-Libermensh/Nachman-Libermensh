@@ -18,61 +18,98 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Core Languages</b></summary>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; padding: 20px;">
-  <div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px;">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/typescript.svg" width="50" alt="TypeScript"/>
     <p><strong>TypeScript</strong></p>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/javascript.svg" width="50" alt="JavaScript"/>
     <p><strong>JavaScript</strong></p>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/java.svg" width="50" alt="Java"/>
     <p><strong>Java</strong></p>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/python.svg" width="50" alt="Python"/>
     <p><strong>Python</strong></p>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/c.svg" width="50" alt="C"/>
+    <p><strong>C</strong></p>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/html.svg" width="50" alt="HTML"/>
+    <p><strong>HTML</strong></p>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/css.svg" width="50" alt="CSS"/>
+    <p><strong>CSS</strong></p>
   </div>
 </div>
 </details>
 
 <details open>
 <summary><b>Frontend Excellence</b></summary>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; padding: 20px;">
-  <div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px;">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/reactjs.svg" width="50" alt="React"/>
     <p><strong>React</strong></p>
     <small>Component Architecture</small>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nextjs.svg" width="50" alt="Next.js"/>
     <p><strong>Next.js</strong></p>
     <small>Full-Stack Framework</small>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/shadcn-ui-logo.svg" width="50" alt="shadcn/ui"/>
     <p><strong>Shadcn/UI</strong></p>
     <small>Component Library</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/i18n.png" width="50" alt="i18n"/>
+    <p><strong>i18n</strong></p>
+    <small>Internationalization</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/tanstack-table.png" width="50" alt="TanStack Table"/>
+    <p><strong>TanStack Table</strong></p>
+    <small>Data Grid Solution</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" width="50" alt="React Router"/>
+    <p><strong>React Router</strong></p>
+    <small>Routing Library</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/openAi.svg" width="50" alt="OpenAI API"/>
+    <p><strong>OpenAI API</strong></p>
+    <small>AI Integration</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/next-auth.png" width="50" alt="NextAuth.js"/>
+    <p><strong>NextAuth.js</strong></p>
+    <small>Authentication</small>
   </div>
 </div>
 </details>
 
 <details open>
 <summary><b>Backend & Infrastructure</b></summary>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; padding: 20px;">
-  <div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px;">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg" width="50" alt="Node.js"/>
     <p><strong>Node.js</strong></p>
     <small>Runtime Environment</small>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/express.svg" width="50" alt="Express.js"/>
     <p><strong>Express.js</strong></p>
     <small>Web Framework</small>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nestjs.svg" width="50" alt="NestJS"/>
     <p><strong>NestJS</strong></p>
     <small>Enterprise Framework</small>
@@ -82,13 +119,19 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Database Expertise</b></summary>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; padding: 20px;">
-  <div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px;">
+<d</div>
+</details>
+
+<details open>
+<summary><b>Database Expertise</b></summary>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px;">
+iv align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongodb.svg" width="50" alt="MongoDB"/>
     <p><strong>MongoDB</strong></p>
     <small>NoSQL Database</small>
   </div>
-  <div align="center">
+  <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mysql.svg" width="50" alt="MySQL"/>
     <p><strong>MySQL</strong></p>
     <small>SQL Database</small>
