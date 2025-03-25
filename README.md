@@ -93,6 +93,26 @@ I am a seasoned software developer specializing in full-stack web development an
     <p><strong>NextAuth.js</strong></p>
     <small>Authentication</small>
   </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="50" alt="Tailwind CSS"/>
+    <p><strong>Tailwind CSS</strong></p>
+    <small>Utility-First CSS</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://zod.dev/logo.svg" width="50" alt="Zod"/>
+    <p><strong>Zod</strong></p>
+    <small>Schema Validation</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="50" alt="TanStack Query"/>
+    <p><strong>React Query</strong></p>
+    <small>Data Fetching</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo.svg" width="50" alt="React Hook Form"/>
+    <p><strong>React Hook Form</strong></p>
+    <small>Form Handling</small>
+  </div>
 </div>
 </details>
 
@@ -118,6 +138,16 @@ I am a seasoned software developer specializing in full-stack web development an
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongoose.png" width="50" alt="Mongoose"/>
     <p><strong>Mongoose</strong></p>
     <small>ODM Library</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://axios-http.com/assets/logo.svg" width="50" alt="Axios"/>
+    <p><strong>Axios</strong></p>
+    <small>HTTP Client</small>
+  </div>
+  <div align="center" style="min-width: 120px;">
+    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="50" alt="Vercel"/>
+    <p><strong>Vercel</strong></p>
+    <small>Deployment Platform</small>
   </div>
 </div>
 </details>
