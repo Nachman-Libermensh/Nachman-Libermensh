@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Nachman</h1>
-  <p><em>Senior Full Stack Developer | Software Architecture Enthusiast | Problem Solver</em></p>
+  <p><em>Full Stack Developer | Software Architecture Enthusiast | Problem Solver</em></p>
   
   [![GitHub followers](https://img.shields.io/github/followers/Nachman-Libermensh?style=social)](https://github.com/Nachman-Libermensh)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com)
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a seasoned software developer specializing in full-stack web development and enterprise solutions. With a strong foundation in both frontend and backend technologies, I focus on creating scalable, maintainable, and high-performance applications. While most of my repositories are private due to client confidentiality, I'm passionate about contributing to the developer community and always eager to collaborate on innovative projects.
+I am a dedicated software developer focused on full-stack web development and enterprise solutions. With a solid foundation in both frontend and backend technologies, I specialize in building clean, maintainable, and efficient applications. I take a methodical approach to problem-solving and continuously expand my technical expertise. While most of my repositories are private due to client confidentiality, I'm passionate about contributing to the developer community and always eager to collaborate on innovative projects.
 
 ---
 
