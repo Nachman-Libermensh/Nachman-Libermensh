@@ -1,15 +1,15 @@
 # Hello, I'm Nachman 👋
 
 ## Introduction
+
 I am a software developer with a passion for learning and creating new things. Most of my repositories are private, but I am always looking to improve my skills and contribute to the community. I would love to collaborate with you on something...😉
 
 <br clear="left"/>
 
 ## Technical Skills
 
-
-
 ### Programming Languages
+
 <img width="22px" title="Java" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/java.svg">
 <img width="22px" title="Python" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/python.svg">
 <img width="22px" title="C" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/c.svg">
@@ -26,6 +26,9 @@ I am a software developer with a passion for learning and creating new things. M
 <img width="22px" title="Next.js" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nextjs.svg">
 <img width="22px" title="Node.js" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg">
 <img width="22px" title="Express.js" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/express.svg">
+<img width="22px" title="i18n" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/i18n.png">
+<img width="22px" title="nestjs" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nestjs.svg">
+
 <img width="22px" title="tanstack-table" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/tanstack-table.png">
 <img width="22px" title="React Router" align="left" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg">
 <img width="22px" title="OpenAI API" align="left" src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/openAi.svg">
@@ -50,6 +53,7 @@ I am a software developer with a passion for learning and creating new things. M
 <br clear="left"/>
 
 ## GitHub Stats (only in public repositories)
+
 <!--
 <p>
 <picture>
@@ -70,10 +74,6 @@ I am a software developer with a passion for learning and creating new things. M
 - **Project B**: A brief description of the project and what it does.
 - **Project C**: A brief description of the project and what it does.
 -->
-
-
-
-
 
 <img width="100%" height="20px" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
 
