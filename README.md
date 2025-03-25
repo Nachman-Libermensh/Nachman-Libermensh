@@ -18,7 +18,7 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Core Languages</b></summary>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px; margin: 10px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
   <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/typescript.svg" width="50" alt="TypeScript"/>
     <p><strong>TypeScript</strong></p>
@@ -52,7 +52,7 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Frontend Excellence</b></summary>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px; margin: 10px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
   <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/reactjs.svg" width="50" alt="React"/>
     <p><strong>React</strong></p>
@@ -118,7 +118,7 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Backend & Infrastructure</b></summary>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px; margin: 10px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
   <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/nodejs.svg" width="50" alt="Node.js"/>
     <p><strong>Node.js</strong></p>
@@ -154,7 +154,7 @@ I am a seasoned software developer specializing in full-stack web development an
 
 <details open>
 <summary><b>Database Expertise</b></summary>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding: 20px; margin: 10px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 20px; max-width: 1200px; margin: 0 auto;">
   <div align="center" style="min-width: 120px;">
     <img src="https://github.com/Nachman-Libermensh/Nachman-Libermensh/blob/main/public/mongodb.svg" width="50" alt="MongoDB"/>
     <p><strong>MongoDB</strong></p>
